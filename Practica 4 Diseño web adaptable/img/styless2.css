@@ -1,0 +1,31 @@
+.container {
+    margin-top: 20px;
+}
+
+.img-full-width {
+    width: 100%;
+    height: auto;
+    box-shadow: 0 4px 8px black;
+    text-align: center;
+}
+
+.img-left,
+.img-right,
+.img-small {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px black;
+}
+
+.img-left {
+    max-width: 600px;
+}
+
+.img-right {
+    max-width: 600px;
+}
+
+.img-small {
+    max-width: 400px;
+}
